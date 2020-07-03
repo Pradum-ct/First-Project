@@ -1,0 +1,191 @@
+UsedVehicleShop
+{
+	background-color:#BF4646;
+	
+    font-size: 50px;
+    border:10px;
+    background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3));
+}
+
+Logo
+{
+	background-image: url("logs.png");
+	background-repeat: no-repeat;
+	background-size:contain;
+	position:absolute;
+	height:11%;
+	width:16%;
+	margin:0Px 0px 40px -900px;
+	
+
+}
+
+
+VehicleShopDetails
+{
+	
+	text-align: center;
+	display:block;
+	
+
+}
+
+Telephone::before {
+		content: "Contact: " attr(countrycode);
+}
+
+Telephone,PanNo,Address,website,Email
+{
+	list-style: all;
+	display: block;
+    color: darkgrey;
+    font-size: 20px;
+    border:#838383;
+    background-color: #BF4646;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    opacity:80%;
+    margin-right:-10%;
+    font-family: "fantasy";
+
+
+}
+ShopName
+ {
+	color: Black;
+	font-size:68px;
+	font-family: "Georgia";
+
+	
+}	
+
+Address:before{
+	content:"Address: ";
+}
+PanNo:before{
+	content:"PanNO:";
+
+}
+
+
+
+website:before{
+	content: "Website: ";
+}
+
+Email:before{
+	content: " E-mail: ";
+
+}
+
+Items{
+	color:black;
+	text-align: left;
+	display: block;
+	margin: 6%; 
+	font-size: 35px;
+	font-weight: bold;
+	float: right;
+}
+
+
+ItemName,ItemDetails,Quantity,Manufacturer,Colour,Price,Dimension,Property,CarType,Warranty,Mileage,ReleaseDate
+{
+	list-style: all;
+	display:block;
+	line-height: 150%;
+	font-family: "Trebuchet MS";
+	font-weight: bold;
+	font-size:25px;
+
+
+}
+
+Cars
+{
+	color: skyblue;
+	text-align: left;
+	display: block;
+	border: 2px;
+	border-radius: 10%;
+	padding:5%;
+	margin: 5%;
+	background-color: #3C3535;
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+	opacity:100%;
+	display:list-item;
+}
+	
+
+ItemName:before{
+	content: "Item Name: ";
+
+}
+ItemDetails:before{
+	content: "Item Details:";
+	
+}
+
+Quantity:before{
+	content: "Quantity: ";
+
+}
+Quantity
+{
+	font-family: "arial";
+	display:list-item;
+	
+
+}
+BrandName:before{
+	content: "Brand: "attr(ArticleNo);
+}
+BrandName
+{
+	font-weight: bold;
+	font-family:"tahoma";
+	font-size: 30px;
+	 
+}
+Price
+{
+	float: right;
+	padding: 35px;
+
+}
+
+
+Manufacturer:before{
+	content: "Manufacturer: ";
+}
+Colour:before{
+	content: "Colour: ";
+}
+Price:before{
+	content: "Price: "attr(Range);
+
+}
+Dimension:before{
+	content: "Dimension: ";
+}
+Property:before{
+	content: "Property: " attr(category);
+}
+CarType:before{
+	content: "Car Type: ";
+}
+
+Warranty:before{
+	content: "Warranty: ";
+}
+Mileage:before{
+	content: "Mileage: ";
+}
+ReleaseDate:before{
+	content: " Release Date: ";
+
+}
+ReleaseDate
+{
+	float: right;
+	font-family: " Palatino";
+}

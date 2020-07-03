@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="catalog_18028915.css" ?>
+<UsedVehicleShop xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="catalog_18028915.xsd" >
+	<VehicleShopDetails>
+		<ShopName>Pashupati Motor Cars</ShopName>
+		<Logo></Logo>
+		<Telephone countrycode="+977"> 9842797963 </Telephone>
+		<PanNo>0333325462</PanNo>
+		<Address provinceNo="1">Dhulabari, Jhapa</Address>
+		<website>www.pashupaticars.com.np</website>
+		<Email>pashupaticars33@gmail.com</Email>
+	</VehicleShopDetails>
+	<Items >
+		<Item ItemNo="I001">
+		<ItemName>Sedan</ItemName>
+		<ItemDetails> Sedan is a car with a closed body. It is for passenger and a less sporting appearance.</ItemDetails>
+		<Quantity>5</Quantity>
+		<Cars>
+			<BrandName ArticleNo="(AMT1199) ">Tata Tigor </BrandName>
+			<Manufacturer> Tata Motors</Manufacturer>
+			<Colour>Daytona Grey</Colour>
+			<Price Range= "(Low) "> NRs-900000/ </Price>
+			<Dimension> 3993 mm length,1677 mm width,1532 mm height and wheel base 2450 mm</Dimension>
+			<Property category="(Stylish) "> This car consist of 12V revotron Engine and there are 3 cylinders in this car. It have central locking system. </Property>
+			<CarType> Fuel </CarType>
+					
+
+		</Cars>
+
+		<Cars>
+			<BrandName ArticleNo="(E210) ">Toyota Corolla </BrandName>
+			<Manufacturer> Toyota Motor Corporation</Manufacturer>
+			<Colour>Champagne Mica Metallic</Colour>
+			<Price Range= "(Low) ">NRs-1675000/</Price>
+			<Dimension> length 4530 mm, width 1705 mm and wheelbase of 2600 mm </Dimension>
+			<Property category="Comfort"> Toyota Corolla is known as a dependable, safe and reliable car. It's one of Toyota's best selling car.  Toyota corrola ranks 8 in compact cars. </Property>
+			<CarType> Hybrid </CarType>
+			<Warranty> 18 months</Warranty>
+			<Mileage> 8kmpl</Mileage>
+			<ReleaseDate> 5 March 2019 </ReleaseDate>
+		</Cars>
+
+		<Cars>
+			<BrandName ArticleNo="(G80 k2) ">Mahindra kuv 100 </BrandName>
+			<Manufacturer>Mahindra and Mahindra </Manufacturer>
+			<Colour> Flamboyant Red </Colour>
+			<Price Range= "(Medium) "> NRs-1825000/</Price>
+			<Dimension>  length 3700 mm width 1735 mm height 1655 and wheel base 2385 mm</Dimension>
+			<Property category="(Stylish) ">The K2 is the base variant for the newly launched KUV100.The vehicle also gets 14-inch steel wheels with caps, while ABS with EBD and engine immobilizer is offered as standard. </Property>
+			<CarType> Fuel </CarType>
+			<Warranty>10 Months </Warranty>
+			<Mileage>12.23 kmpl  </Mileage>
+			<ReleaseDate> 8 oct 2020 </ReleaseDate>
+		</Cars>
+         <Cars>
+			<BrandName ArticleNo="(AMT BS6) "> Maruti Suzuki Ignis </BrandName>
+			<Manufacturer>suzuki </Manufacturer>
+			<Colour>Glistening Grey</Colour>
+			<Price Range= "(Low) "> NRs-800000/ </Price>
+			<Dimension>  length 3700 mm width 1660 mm height 1595 and wheel base 2435 mm</Dimension>
+			<Property category="(Stylish) "> This car consist of 12V revotron Engine and there are 3 cylinders in this car. It have central locking system. It is available with six colour choices. </Property>
+			<CarType> Fuel </CarType>
+
+		</Cars>   
+
+		<Cars>
+			<BrandName ArticleNo="(N2021) "> Hyundai Kona</BrandName>
+			<Manufacturer>Hyundai Motor Company </Manufacturer>
+			<Colour>Blue Lagon</Colour>
+			<Price Range= "(High) "> NRs-2300000/</Price>
+			<Dimension>  length  4165 mm ,width  1800 mm ,height 4180mm  and wheel base 4195mm </Dimension>
+			<Property category="(Subcompact crossover) "> Hyundai Kona is affordable, well-equipped, upscale, and fun to drive. Five passenger can seat in this car. It can cover 300 km in a single Charge.</Property>
+			<CarType> Electric </CarType>
+			<Warranty>24 Months</Warranty>
+			<Mileage>350 km/full charge</Mileage>
+			<ReleaseDate>4 feb 2019 </ReleaseDate>
+
+		</Cars>     
+		
+	</Item>
+
+	
+</Items>
+
+	<Items>
+		<Item ItemNo="I002">
+		<ItemName>Hatchback</ItemName>
+		<ItemDetails> HatchBack is a car with hatch type that open upwards. Hatchbacks are popular among people due its affordable price and compact size. </ItemDetails>
+		<Quantity>4</Quantity>
+		
+		<Cars>
+			<BrandName ArticleNo="(STD799) "> Renault Kwid</BrandName>
+			<Manufacturer> Renault_India_Private_Limited </Manufacturer>
+			<Colour>Outback Bronze</Colour>
+			<Price Range="(High) ">NRs-2170100/</Price>
+			<Dimension> 3731 mm length,1579 mm width,1474 mm in height, a wheelbase of 2422 mm</Dimension>
+			<Property category="(Luxury) "> Renault Kwid is very good in consumption. It is excellent car which is easy to handle. Its weight is also light. Its ARAI milege is 24.04 kmpl. It have 28 L fuel tank capacity   </Property>
+			<CarType> Fuel </CarType>
+			<Warranty> 1 year</Warranty>
+			<ReleaseDate></ReleaseDate>
+		</Cars>
+
+			<Cars>
+			<BrandName ArticleNo="(E210) ">Ford Figo</BrandName>
+			<Manufacturer> Ford India Pvt Ltd</Manufacturer>
+			<Colour>Moondust Silver</Colour>
+			<Price Range= "(Low) ">NRs-950000/</Price>
+			<Dimension> length 3941 mm, width 1,704mm,1525 mm height and wheelbase of 2,490 mm</Dimension>
+			<Property category="(Subcompact)">Ford figo is the safest hatchback in its segment. It have six airbags as well as electronic stability control. It is available both in petrol and diesel. </Property>
+			<CarType> Fuel </CarType>
+
+		</Cars>
+
+		
+
+			<Cars>
+			<BrandName ArticleNo="(S2020) "> Toyota Prius </BrandName>
+			<Manufacturer> Toyota </Manufacturer>
+			<Colour>Midnight Black Metallic</Colour>
+			<Price Range= "(High)">NRs-2400000/</Price>
+			<Dimension> length 4540 mm, width 1760 mm,1490 mm height and wheelbase of 2700 mm</Dimension>
+			<Property category="(Compact)"> Toyota Prius is full hybrid automobile develop by toyota. Its known for distictive styling. It have 40L Fuel tank capacity. It consist of Air conditioner,Heater,Antilock Breaking System. </Property>
+			<CarType> Hybrid </CarType>
+			<Warranty> 18 Months</Warranty>
+			
+			<ReleaseDate> 6 Dec 2018</ReleaseDate>
+		</Cars>
+
+		<Cars>
+			<BrandName ArticleNo="(i10H50) "> Hyundai Grand i10 </BrandName>
+			<Manufacturer> Hyundai motor company </Manufacturer>
+			<Colour>Golden Orange</Colour>
+			<Price Range= "(low) ">NRs-1000000/</Price>
+			<Dimension> length 3765  mm, width 1660 mm, height 1520 mm and wheelbase 2424mm</Dimension>
+			<Property category="(Comfort) "> The Grand i10 is available with the Manual transmission.It is a 5 seater Hatchback. Its petrol engine is 1100cc. The engine is paired with a 5-speed manual transmission.</Property>
+			<CarType> Fuel  </CarType>
+			<Mileage>18.9 kmpl </Mileage>
+		</Cars>
+	</Item>
+	
+</Items>
+
+	<Items>
+		<Item ItemNo="I003">
+		<ItemName>SUV</ItemName>
+		<ItemDetails> Sport utility vehicle(SUV) are bigger and taller than normal cars which have higher roof and seating position. It us used for off-roading and it comes with Four Wheel Drive(4WD)</ItemDetails>
+		<Quantity>2</Quantity>
+		<Cars>
+			<BrandName ArticleNo="(S3CX-5)"> Mazda CX-5</BrandName>
+			<Manufacturer> Mazda Motor Corporation </Manufacturer>
+			<Colour> Soul red Crystal</Colour>
+			<Price Range="(High) ">NRs-5900000/</Price>
+			<Dimension> 4540 mm length,1710 mm height, 2700 mm wheelbase </Dimension>
+			<Property category="(Sport) "> Mazda CX-5 consists of Five-seat. It have 187 horsepower Turbo four-cylinder engine available. Andriod auto and apple carplay is also available. It have new standard active safety features. It is one of the Luxury Car.  </Property>
+			<CarType> Hybrid </CarType>
+			<Warranty>20 Months</Warranty>
+			<Mileage> 10 kmpl </Mileage>
+		</Cars>
+
+		<Cars>
+			<BrandName ArticleNo="(SR 2020) ">Nissan kicks  </BrandName>
+			<Manufacturer>Nissan pvt.Ltd </Manufacturer>
+			<Colour>Monarch Orange</Colour>
+			<Price Range= "(High) ">NRs-7000000/</Price>
+			<Dimension> length 4384 mm, width 1813 mm, height 1615  and wheelbase 2673 of  mm</Dimension>
+			<Property category="(Luxury) "> It  offers great fuel economy and a large amount of cargo and passenger space. It is powered by a 125-hp four-cylinder engine.    </Property>
+			<CarType> Hybrid </CarType>
+			<Warranty> 24 months</Warranty>
+			<Mileage>26 MGH</Mileage>
+			<ReleaseDate>22 Jan 2020 </ReleaseDate>
+		</Cars>
+	</Item>
+	
+</Items>
+</UsedVehicleShop>
